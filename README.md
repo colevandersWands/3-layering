@@ -7,3 +7,9 @@
     and has a short description of the script's behavior
 */
 ```
+
+learning objectives
+* connecting code to html & user input
+* building a gallery of projects
+* onclick, reading from dom, writing to dom
+* first taste of user experience
